@@ -87,8 +87,8 @@ cd PTPP
 ./install.sh
 ```
 ** You can run each script individually from bin/ folder, the program provides an interface for ease of use.
-
 ## 📂 Project Structure
+```markdown
 PTPP/
 ├── bin/
 │   ├── 1_EXT_SPECIES.py
@@ -120,3 +120,4 @@ PTPP/
 ├── LICENSE
 ├── main.cpp
 └── README.md
+```
