@@ -4,7 +4,7 @@
 
 > Developed by Pedro Carvalho
 
-> [linktr.ee/carvalhopc](linktr.ee/carvalhopc)
+> [linktr.ee/carvalhopc](https://linktr.ee/carvalhopc)
 
 ---
 
