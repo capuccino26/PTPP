@@ -1,7 +1,6 @@
 # Protein To Position Pipeline (PTPP)
 
-## ABOUT
-A pipeline developed for the analysis of chromosome position of target protein sequences.
+> A pipeline developed for the analysis of chromosome position of target protein sequences.
 
 > Developed by Pedro Carvalho
 
