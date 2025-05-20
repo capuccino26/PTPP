@@ -1,0 +1,33 @@
+name: PTPP
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - pandas
+  - openpyxl
+  - xlrd
+  - blast
+  - augustus
+  - exonerate
+  - samtools
+  - gffread
+  - biopython
+  - pyfaidx
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - tqdm
+  - python-dotenv
+  - pathlib2
+  - rich
+  - loguru
+  - ipykernel
+  - jupyterlab
+  - pip
+  - pip:
+      - pyexcel-ods

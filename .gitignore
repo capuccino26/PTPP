@@ -1,0 +1,70 @@
+# DATA FOLDERS
+outputs/*
+!outputs/.gitkeep
+
+data/blast_db/*
+!data/blast_db/.gitkeep
+data/genomes/*
+!data/genomes/.gitkeep
+data/genomes_manual/*
+data/fasta_by_species/
+data/fasta_by_genus/
+data/fasta_split_raw/
+BK/
+inputs/*
+!inputs/.gitkeep
+
+# MAIN FILES
+bin/extrinsic.cfg
+bin/ptpp_exe
+ptpp_app
+
+# BACKUP FILES
+data/blast_db.tar.xz
+data/genomes.tar.xz
+
+# R
+.Rhistory
+*.RData
+*.Rds
+.Rproj.user/
+
+# PYTHON EXTENSIONS
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.manifest
+*.spec
+pip-log.txt
+pip-delete-this-directory.txt
+.ipynb_checkpoints
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.tox/
+.nox/
+.coverage
+.hypothesis/
+.pytest_cache/
+
+# BASH
+*.swp
+*.bak
+*.tmp
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+log.txt
+logs/
+
+# SQLite
+*.sqlite3
