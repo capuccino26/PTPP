@@ -129,7 +129,7 @@ PTPP/
 │   ├── 7_SEQUENCES_TBLASTN.sh
 │   ├── 8_AUGUSTUS.py
 │   ├── 9_EXONERATE.py
-│   ├── 10_SCHEMA.py
+│   └── 10_SCHEMA.py
 │
 ├── inputs/
 │   └── <empty folder>
